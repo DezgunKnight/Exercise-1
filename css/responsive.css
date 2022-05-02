@@ -1,0 +1,23 @@
+/* Header starts */
+
+@media (max-width: 768px) {
+    .burgerBar {
+        display: block;
+        width: 45px;
+        height: 50px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .navbar {
+        display: none;
+    }
+    .nav-ul {
+        display: none;
+    }
+    
+}
+
+
+/* Header ends */
